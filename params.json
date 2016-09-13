@@ -1,0 +1,6 @@
+{
+  "name": "Decision-tree-homework-fall-2016",
+  "tagline": "",
+  "body": "Using the ID3 algorithm discussed in class, create the decision tree to prediction **Class: buys_computer** from the following table. NOTE: You can ignore the **RID column**.\r\n\r\n![AllElectronics Table](https://www.dropbox.com/s/nv938dss2dg0e9k/TableAllElectronics.png?dl=0)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
